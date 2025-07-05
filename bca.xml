@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<college1 id="1"> 
+	<collegeName>"Som-Lalit college of computer application"</collegeName>
+	<course>"BCA","BBA","B.Com"</course>
+	<address>"Xr.Xivier college of computer application courner"</address>
+	<contectNumber>9853612596</contectNumber>
+</college1>
+
+<college2 id="2">
+	<collegeName>"Lokmany college of nursereing"</collegeName>
+	<course>"BCA","BBA"</course>
+	<address>"Shivranjini cross road"</address>
+	<contectNumber>985632569</contectNumber>
+</college2>	
+
+<college3 id="3">
+	<collegeName>"L J college ofcomputer application"</collegeName>
+	<course>"B.Com","BCA","B.Sc IT"</course>
+	<address>"Vastrapur, ahemdabad"</address>
+	<contectNumber>9862569856</contectNumber>
+</college3>
+	
+<college4 id="4">
+	<collegeName>"Xr. Xivier college of computer application"</collegeName>
+	<course>"BCA","BBA","Nursery"</course>
+	<address>"Som-Lalit college of computer application courner"</address>
+	<contectNumber>9856325989</contectNumber>
+</college4>
+	
+<college5 id="5">
+	<collegeName>"Asia Pasific institute of Nursering"</collegeName>
+	<course>"B.Tech","B.Sc IT","BCA"</course>
+	<address>"Swastik char rasta, vastrapur"</address>
+	<contectNumber>9856932569</contectNumber>
+</college5>
+
+<college6id="6">
+	<collegeName>LD engineering college"</collegeName>
+	<course>"Nuesery","B.Sc","MBBS"</course>
+	<address>"gujrat university road"</address>
+	<contectNumber>8965863256</contectNumber>
+</college6>
+	
+<college7 id="7">
+	<collegeName>"Aadarsh college of computer application"</collegeName>
+	<course>"BCA","BBA"</course>
+	<address>"Paliyad road,Botad"</address>
+	<contectNumber>9863256989</contectNumber>
+</college7>
+	
